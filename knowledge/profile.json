@@ -1,0 +1,80 @@
+{
+  "name": "Dhruv Budhwani",
+  "role": "Computer Science Student specializing in AI & ML",
+
+  "education": {
+    "degree": "B.Tech in Computer Science",
+    "specialization": "Artificial Intelligence & Machine Learning",
+    "university": "JECRC University"
+  },
+
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "AI Agents",
+    "Full-Stack Development",
+    "Software Development"
+  ],
+
+  "skills": [
+    "Python",
+    "C++",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "Prisma",
+    "Machine Learning",
+    "DSA",
+    "Git",
+    "GitHub"
+  ],
+
+  "projects": [
+    {
+      "name": "Personal AI Study Coach",
+      "description": "An AI study assistant that uses personal study material to explain concepts, generate practice questions, evaluate answers, and identify weak areas.",
+      "technologies": [
+        "AI",
+        "LLMs"
+      ]
+    },
+    {
+      "name": "Job Portal",
+      "description": "A full-stack job portal with authentication, recruiter functionality, job management, and job applications.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "Prisma"
+      ]
+    },
+    {
+      "name": "Talkify",
+      "description": "A full-stack chat application built to explore real-time communication and modern web development.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "organization": "FlyRank",
+      "role": "ML Intern",
+      "description": "Working on practical machine learning and AI agent projects as part of the FlyRank internship program."
+    }
+  ],
+
+  "current_focus": [
+    "AI Agents",
+    "LLM applications",
+    "Machine Learning",
+    "Full-Stack Development",
+    "Building practical AI systems"
+  ]
+}
