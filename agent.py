@@ -60,3 +60,4 @@ if __name__ == "__main__":
 
     print("\nDhruv AI:")
     print(answer)
+    print("GEMINI KEY EXISTS:", bool(os.getenv("GEMINI_API_KEY")))
