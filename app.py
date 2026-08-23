@@ -4,11 +4,8 @@ from pydantic import BaseModel
 
 from agent import ask_agent
 
-
 app = FastAPI()
 
-
-# Allow your React portfolio to communicate with the backend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
