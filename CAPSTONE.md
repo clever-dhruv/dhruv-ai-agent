@@ -193,3 +193,8 @@ Resume-aware responses
 Project-specific information
 Visitor analytics
 Improved UI for the AI assistant
+## 13. Demo
+
+A live demonstration of the project is available here:
+
+https://drive.google.com/file/d/1tXzbrBZwWznYI3OsK6FVSMHaUL50SPtb/view?usp=drive_link
